@@ -16,5 +16,5 @@ vim +PluginInstall +qall
 folding   
 relative line number     
 searching   
-register copy-paste 
+register copy-paste   
 colorscheme : 
