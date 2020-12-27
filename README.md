@@ -10,11 +10,11 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 vim +PluginInstall +qall
 ```
-를 눌러서 Plugin들을 자동으로 설치해준다.
+를 두번 눌러서 Plugin들을 자동으로 설치해준다.
 
 ## 지원하는 기능들 
 folding   
 relative line number     
 searching   
 register copy-paste   
-colorscheme : 
+colorscheme : palenight "이지만, line number는 yellow로 따로 설정되어 있다.  
