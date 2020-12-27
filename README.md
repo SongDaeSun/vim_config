@@ -1,6 +1,15 @@
 # vim_config
 
 ## 설치방법
+우선 이 repo를 다운 받는다.
+~~~
+git clone 
+~~~
+그후 다음의 명령어로 .vimrc파일을 복사한다.
+~~~
+cp .vimrc ~/.vimrc
+~~~
+
 다음과 같은 명령어를 사용하여 vim plugin Vundle을 설치한다.  
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
